@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋🏽, I'm Avratanu Biswas (You can call me as, Avra 🤗)</h1>
+<h1 align="center">Hi👋🏽, I'm  Avra </h1>
 <h3 align="center"> 👨🏽‍🎓PhD candidate (Biophysicist) @VU, Amsterdam | 📊Data-science and open-source enthusiasts | 📹 YouTuber @(https://www.youtube.com/c/avra_b)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avrabyt&label=Profile%20views&color=0e75b6&style=flat" alt="avrabyt" /> </p>
