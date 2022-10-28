@@ -7,8 +7,8 @@ Hi there 👋🏽
   ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
 
-- 🐦 Connect me over [twitter](https://twitter.com/avra_b) or email me at `avrab.yt@gmail.com`
-- 📝 I write articles on [https://medium.com/@avra42](https://medium.com/@avra42)
+- 🐦 Connect me over [twitter](https://twitter.com/avra_b) or email me at `avrab.yt@gmail.com`.
+- 📝 I write articles on [https://medium.com/@avra42](https://medium.com/@avra42).
 
 
 Checkout few of the `Python-Streamlit` packages I'm working on,
