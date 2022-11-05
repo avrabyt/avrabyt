@@ -1,6 +1,6 @@
 Hi there 👋🏽
 
-- 🔬 I'm working in the field of Biophysics of Photosynthesis ([Publications](https://scholar.google.com/citations?hl=en&user=bTzfXH0AAAAJ&view_op=list_works&sortby=pubdate)).
+- 🔬 I'm working in the field of Biophysics of Photosynthesis & light-harvesting mechanisms involved during photosynthesis. ([Publications](https://scholar.google.com/citations?hl=en&user=bTzfXH0AAAAJ&view_op=list_works&sortby=pubdate)).
 - 📊 Data-science and open-source enthusiasts.
 - 📹 I run a [youtube channel](https://www.youtube.com/c/avra_b) sharing content about data-science and web-development using `Python` or `Streamlit` (as front-end).
 
