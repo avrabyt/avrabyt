@@ -10,7 +10,7 @@ Hi there 👋🏽
 - 🐦 Connect me over [twitter](https://twitter.com/avra_b) or email me at `avrab.yt@gmail.com`.
 - 📝 I write articles on [https://medium.com/@avra42](https://medium.com/@avra42).
 
-
+<!-- 
 Checkout few of the `Python-Streamlit` packages I'm working on,
 
 - [st-ipyvizzu](https://github.com/avrabyt/Streamlit-ipyvizzu)- 📊 Create animated charts easily! A ipyvizzu wrapper for intuitive usage of ipyvizzu functions and Streamlit embed support. 
@@ -27,6 +27,6 @@ Checkout few of the `Python-Streamlit` packages I'm working on,
   [![Downloads](https://pepy.tech/badge/st-speckmol)](https://pepy.tech/project/st-speckmol)
   [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://hellostspeckmol.streamlitapp.com)
 
-  <img src="https://github.com/avrabyt/Specklit/blob/main/Resources/SpeckLit_demo.gif" width="900" height="500"/>
+  <img src="https://github.com/avrabyt/Specklit/blob/main/Resources/SpeckLit_demo.gif" width="900" height="500"/> -->
   
 
